@@ -1,2 +1,2 @@
-# ten-hundred-hacker-wods
+# ten-hundred-hacker-words
 The top ten-hundred words for Hackers
